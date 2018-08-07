@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\for\for\bin\Debug\@for.exe.config
+C:\Users\Mauricio M\Downloads\for\for\bin\Debug\@for.exe
+C:\Users\Mauricio M\Downloads\for\for\bin\Debug\@for.pdb
+C:\Users\Mauricio M\Downloads\for\for\obj\Debug\for.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\for\for\obj\Debug\@for.exe
+C:\Users\Mauricio M\Downloads\for\for\obj\Debug\@for.pdb
